@@ -28,7 +28,7 @@ A significant addition to the project is the integration of a Streamlit web appl
 
 ## Feedback 📧
 
-Got feedback or suggestions? We'd love to hear from you! Reach out to us via email or open an issue on GitHub.
+Got feedback or suggestions? I'd love to hear from you! Reach out to us via email or open an issue on GitHub.
 
 ## Spread the Word 🌟
 
